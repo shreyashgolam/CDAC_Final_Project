@@ -1,4 +1,4 @@
-### Data Accession using RTOS and CAN using STM32
+# Data Accession using RTOS and CAN using STM32
 
 ## Project Overview
 This project demonstrates real-time data acquisition and communication using FreeRTOS and CAN bus on the STM32F407G-DISC1 development board. The system collects sensor data, transmits it via CAN bus, and forwards it to a laptop for storage and visualization. The implementation is suitable for various industrial and environmental monitoring applications.
